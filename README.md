@@ -10,8 +10,10 @@ I'm a passionate and dedicated **Engineering student** at CSI College Of Enginee
 - **Others:** Basic knowledge of machine learning concepts, problem-solving, and teamwork.
 
 ## 🌟 Projects
++ **[Stock Market Prediction]():**
 + **[Tea Shop Website](https://github.com/venmathi2004/tea-shop-website.git):** Designed and developed a responsive Front-end website for a tea shop.
 + **[Mental Health in Tech Survey](https://github.com/venmathi2004/Mental-health-in-tech-survey-.git):** Analyzed survey data on mental health in the tech industry using Python in Jupyter Notebook for data visualization and insights.
+
 
 ## 📫 Contact Me
 + **Gmail:** venmathiraj2004@gmail.com
