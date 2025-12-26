@@ -4,10 +4,10 @@ I'm a passionate and dedicated **Engineering student** at CSI College Of Enginee
 
 ## 🚀 Skills
 - **Frontend Development:** HTML, CSS, JavaScript
-- **Programming Language:** Python
-- **Version Control:** Git, GitHub
-- **Cloud Services:** AWS (with a focus on Cloud Services)
-- **Others:** Basic knowledge of machine learning concepts, problem-solving, and teamwork.
+- **Programming Language:** Java, SQL
+- **Tools:** VS Code(Visual Studio Code), Git, GitHub, AWS Console
+- **Cloud Services:** AWS Services(EC2 Instance, S3 Buckets)
+- **Others:** Problem Solving, Team Collaboration, Adaptability.
 
 ## 🌟 Projects
 + **[Stock Market Prediction](https://github.com/venmathi2004/Stock-market-prediction.git):** Developed a real-time stock market prediction web app using CNN+LSTM and Flask. Integrated live stock data via Twelve Data API and visualized future trends using Chart.js.
