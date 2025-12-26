@@ -13,7 +13,7 @@ I'm a passionate and dedicated **Engineering student** at CSI College Of Enginee
 + **[Stock Market Prediction](https://github.com/venmathi2004/Stock-market-prediction.git):** Developed a real-time stock market prediction web app using CNN+LSTM and Flask. Integrated live stock data via Twelve Data API and visualized future trends using Chart.js.
 + **[Tea Shop Website](https://github.com/venmathi2004/tea-shop-website.git):** Designed and developed a responsive Front-end website for a tea shop.
 + **[Mental Health in Tech Survey](https://github.com/venmathi2004/Mental-health-in-tech-survey-.git):** Analyzed survey data on mental health in the tech industry using Python in Jupyter Notebook for data visualization and insights.
-+ **[Netflix Clone Website]():**Netflix-inspired front-end website clone built using HTML and CSS, replicating the Netflix India homepage and sign-in UI for UI design and layout practice.
++ **[Netflix Clone Website](https://github.com/venmathi2004/Netflix-Clone-Website-.git):** Netflix-inspired front-end website clone built using HTML and CSS, replicating the Netflix India homepage and sign-in UI for UI design and layout practice.
 
 
 ## 📫 Contact Me
