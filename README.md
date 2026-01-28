@@ -1,13 +1,14 @@
 # Hi there, I'm Venmathi Raj 👋
 
-I'm a passionate and dedicated **Engineering student** at CSI College Of Engineering, ooty, Tamilnadu. I'm enthusiastic about **Web Development** and have hands-on experience with **HTML, CSS, and JavaScript**. My journey in tech has equipped me with a solid foundation in **front-end development**, and continually expanding my skills in **Python Programming** and **AWS**. I'm always eager to learn new technologies and contribute to meaningful projects that can solve real-world problems.
+I'm a passionate and dedicated **Engineering student** at CSI College Of Engineering, ooty, Tamilnadu. Aspiring **Full Stack Developer** with hands-on experience in building responsive web applications using **HTML, CSS, JavaScript, Bootstrap and ReactJS**.  Strong Foundation in **Core Java and SQL**, with Experience in version control using **Git/GitHub**. Passionate about developing clean, user-friendly interfaces and eager to learn and adapt to new technologies.
 
 ## 🚀 Skills
-- **Frontend Development:** HTML, CSS, JavaScript
-- **Programming Language:** Java, SQL
-- **Tools:** VS Code(Visual Studio Code), Git, GitHub, AWS Console
-- **Cloud Services:** AWS Services(EC2 Instance, S3 Buckets)
-- **Others:** Problem Solving, Team Collaboration, Adaptability.
+- **Technical Skills:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** Bootstrap, React JS
+- **Programming Language:** Core Java
+- **Database:** SQL
+- **Tools:** VS Code(Visual Studio Code), Git, GitHub
+- **Soft Skills:** Problem Solving, Team Collaboration, Adaptability.
 
 ## 🌟 Projects
 + **[Netflix Clone Website](https://github.com/venmathi2004/Netflix-Clone-Website-.git):** Netflix-inspired front-end website clone built using HTML and CSS, replicating the Netflix India homepage and sign-in UI for UI design and layout practice.
